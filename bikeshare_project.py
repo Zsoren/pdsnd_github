@@ -220,8 +220,10 @@ def main_func():
         user_stats(df, city)
         raw_data(df)
 
-
+        # asks the user if they would like to start the program over again
         restart = input('\nWould you like to restart? Yes or No?\n').lower()
+
+        # validates the user's response, breaking the loop if they say no, and restarting the loop if yes
         while True:
             if restart not in ('yes', 'no'):
                 restart = input("\nOops! Looks like that's not a valid entry. Please enter Yes or No\n").lower()
