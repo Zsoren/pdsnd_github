@@ -2,8 +2,8 @@
 
 ### Date created
 
-bikeshare_project.py: 7-23-24  
-README.md: 7-27-24 
+* bikeshare_project.py - 7-23-24  
+* README.md - 7-27-24 
 
 ### Description
 
