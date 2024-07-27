@@ -7,7 +7,7 @@
 
 ### Description
 
-This project uses Python to explore bike share data for three major U.S. cities: Chicago, New York City, and Washington. It is an interactive experience that allows users to view descriptive statistics on historical bike share usage, allowing for filtering on city, and month or day of week.
+This project uses Python to explore bike share data for three major U.S. cities: Chicago, New York City, and Washington. It is an interactive experience that allows users to view descriptive statistics on historical bike share usage. Users have the ability to for filter on city, as well as either month or day of week.
 
 ### Files used
 * chicago.csv
